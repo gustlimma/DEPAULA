@@ -1,0 +1,89 @@
+=====================================================================
+ CLINICA DE PAULA - GUIA DE IMAGENS (pasta IMG)
+=====================================================================
+
+COMO USAR
+1) Prepare sua imagem com o NOME EXATO da lista abaixo.
+2) Cole na pasta IMG e escolha "Substituir" no arquivo antigo.
+3) Nao precisa mexer em codigo: o site ja aponta para esses nomes.
+
+REGRAS DOS NOMES
+- Tudo em letras minusculas, sem espacos e sem acentos.
+- Extensao sempre .jpg (nao use .jpeg, .JPG ou .png) - exceto os
+  arquivos de logo e textura marcados com .png abaixo.
+- O GitHub Pages diferencia maiusculas de minusculas:
+  "Depoimento-1.jpg" NAO e igual a "depoimento-1.jpg".
+- Peso recomendado: ate 300 KB por imagem.
+  Use tinypng.com ou squoosh.app para reduzir sem perder qualidade.
+
+---------------------------------------------------------------------
+1) FOTOS
+---------------------------------------------------------------------
+dra-barbara.jpg
+   Onde: secao "Sobre" (foto da Dra. Barbara).
+   Tamanho: 1120 x 1360 px (retrato, proporcao 560:680).
+
+depoimento-1.jpg  ate  depoimento-9.jpg   (9 arquivos)
+   Onde: carrossel "Depoimentos" (apos "Diferenciais"). Cada cartao
+   mostra SOMENTE a imagem (print da avaliacao do Google ou foto do
+   atendimento), sem texto. 3 cartoes visiveis por vez.
+   Tamanho: 800 x 600 px (4:3). A imagem aparece inteira, sem cortes.
+
+trabalho-avaliacao.jpg
+trabalho-resultados-naturais.jpg
+trabalho-tecnicas.jpg
+trabalho-atendimento.jpg
+trabalho-clareamento.jpg
+trabalho-lentes.jpg
+trabalho-estetica-facial.jpg
+trabalho-clinica-geral.jpg
+   Onde: secao de fundo bronze ("Atendimento pensado para voce..."),
+   foto no topo de cada um dos 8 quadros brancos, nesta ordem:
+   1 Avaliacao personalizada | 2 Resultados naturais |
+   3 Tecnicas atualizadas    | 4 Atendimento humanizado |
+   5 Clareamento dental      | 6 Lentes em resina |
+   7 Estetica facial         | 8 Clinica geral
+   Tamanho: 800 x 600 px (4:3).
+
+---------------------------------------------------------------------
+2) ICONES (14 arquivos)  -  JPG com fundo BRANCO, 256 x 256 px
+---------------------------------------------------------------------
+Topo (4 circulos do banner):
+   icone-hero-lentes.jpg | icone-hero-gengivoplastia.jpg
+   icone-hero-botox.jpg  | icone-hero-preenchimento.jpg
+Secao Sobre:
+   icone-sobre.jpg
+Cartoes de tratamentos (3):
+   icone-estetica-dental.jpg | icone-estetica-facial.jpg
+   icone-clinica-geral.jpg
+Secao de fundo bronze (icone ao lado do texto):
+   icone-numeros.jpg
+Etapas "Como funciona" (4):
+   icone-etapa-1.jpg ... icone-etapa-4.jpg
+Faixa do curso online:
+   icone-curso.jpg
+
+---------------------------------------------------------------------
+3) LOGO E TEXTURA (PNG com fundo transparente)
+---------------------------------------------------------------------
+logo.png
+   Logo completo na cor champanhe. Aparece sobre o painel bronze do
+   topo e no rodape (fundos escuros). Precisa ser PNG transparente.
+   Tamanho: ~1100 px de largura.
+
+logo-icone.png
+   Monograma "BB" na cor bronze (fundo transparente). Aparece no menu
+   (fundo branco) e como icone da aba do navegador.
+
+fundo-padrao.png
+   Textura granulada bronze (azulejo 54 x 35 px que se repete) usada
+   no painel do topo. Pode ser substituida por outra textura pequena.
+
+---------------------------------------------------------------------
+RESUMO: 35 arquivos na pasta IMG
+---------------------------------------------------------------------
+ 1 foto da doutora | 9 depoimentos | 8 fotos dos diferenciais
+14 icones | 2 logos (png) | 1 textura (png)
+
+TEXTOS A EDITAR NO index.html:
+ - Horario de atendimento (faixa sobre o topo e rodape)
